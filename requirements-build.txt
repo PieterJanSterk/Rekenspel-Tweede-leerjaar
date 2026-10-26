@@ -1,0 +1,2 @@
+# What the build workflow installs on top of requirements.txt to make the apps:
+pyinstaller>=6.6

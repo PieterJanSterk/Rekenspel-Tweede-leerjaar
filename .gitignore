@@ -1,0 +1,28 @@
+# ---- STUDENT DATA: never commit these! -------------------------------------
+# leaderboard.json holds the names and scores of real children.
+leaderboard.json
+settings.json
+selftest-report.txt
+*.json.bak
+
+# ---- build output ------------------------------------------------------------
+build/
+dist/
+release/
+*.spec.bak
+
+# ---- python / editor ---------------------------------------------------------
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ---- old development leftovers (the game draws everything in code) ------------
+assets/images/
+sound_test.py
+*.mp3
+*.swf
